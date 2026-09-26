@@ -1,0 +1,3 @@
+This is a file created using the Visual Studio Code Terminal while connected with Liora VM
+The Course title is Github / Git 
+Date 26.09.2026
